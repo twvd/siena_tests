@@ -1,0 +1,5 @@
+This is a collection of curated SNES tests I use for Souper.
+I collect them here to select only the tests I use to keep
+the repository small.
+
+ * ProcessorTests - https://github.com/TomHarte/ProcessorTests
