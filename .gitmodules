@@ -1,0 +1,3 @@
+[submodule "SNES"]
+	path = SNES
+	url = https://github.com/PeterLemon/SNES.git
